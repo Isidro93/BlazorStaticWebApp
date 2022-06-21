@@ -9,7 +9,7 @@ using Microsoft.Extensions.Logging;
 using Newtonsoft.Json;
 
 namespace GetData
-{
+{ //Environment.GetEnvironmentVariable("DemoUsername");
     public static class Function1
     {
         [FunctionName("GetData")]
